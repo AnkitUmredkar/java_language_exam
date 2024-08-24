@@ -1,6 +1,6 @@
-//WAP TO CREATE PATTERN AS MENTIONED BELOW IMAGE.
-
 import java.util.Scanner;
+
+//WAP TO CREATE PATTERN AS MENTIONED BELOW IMAGE.
 
 public class Pattern {
 
