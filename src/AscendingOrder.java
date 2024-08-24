@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class AscendingOrder {
 
-    public static void main(String args[]){
+    public static void main(String[] args){
 
         Scanner sin = new Scanner(System.in);
         System.out.print("Enter the size of array : ");
@@ -30,10 +30,10 @@ public class AscendingOrder {
            }
          }
 
-        System.out.print("\n Ascending order of array is below :");
+        System.out.print("\nAscending order of array is below :");
 
          for(int elem : arr){
-             System.out.println(elem);
+             System.out.print(elem);
          }
     }
 }
